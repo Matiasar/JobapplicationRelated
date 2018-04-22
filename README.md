@@ -1,4 +1,4 @@
-# JobapplicationRelated
+# JobApplicationRelated
 
 Simple job exercise application.
 
