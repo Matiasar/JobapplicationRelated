@@ -1,6 +1,6 @@
 # JobApplicationRelated
 
-Simple job exercise application.
+Simple job application exercise.
 
 Assumptions and design decisions: 
 * Only one discount is valid at the moment of the transaction.
